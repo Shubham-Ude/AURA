@@ -1,0 +1,3 @@
+{
+  "open youtube": "import os; os.system('start chrome https://youtube.com')"
+}

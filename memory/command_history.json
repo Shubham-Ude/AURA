@@ -1,0 +1,294 @@
+[
+  {
+    "command": "os.system(r'start https://www.youtube.com')",
+    "description": "Opening YouTube"
+  },
+  {
+    "command": "os.system(r'nircmd.exe setbrightness +10')",
+    "description": "Increasing screen brightness"
+  },
+  {
+    "command": "os.system(r'nircmd.exe changebrightness 10')",
+    "description": "Increasing screen brightness"
+  },
+  {
+    "command": "os.system(r'nircmd.exe setbrightness +10')",
+    "description": "Increasing screen brightness"
+  },
+  {
+    "command": "os.system(r'nircmd.exe setbrightness 100')",
+    "description": "Setting screen brightness to full"
+  },
+  {
+    "command": "os.system('start https://www.renault.com')",
+    "description": "You can find more information about Renault on their official website."
+  },
+  {
+    "command": "os.system('start https://www.renault.com')",
+    "description": "Searching for Renault information..."
+  },
+  {
+    "command": "os.system(r'nircmd savescreenshot c:\\\\screen.png')",
+    "description": "Screenshot saved to c:\\\\screen.png"
+  },
+  {
+    "command": "os.system(r'nircmd savescreenshot c:\\\\users\\\\%username%\\\\desktop\\\\screenshot.png')",
+    "description": "Screenshot saved to desktop"
+  },
+  {
+    "command": "os.system('start https://www.youtube.com')",
+    "description": "Opening YouTube..."
+  },
+  {
+    "command": "os.system('taskkill /im youtube.exe')",
+    "description": "Closing YouTube..."
+  },
+  {
+    "command": "os.system('nircmd savescreenshot screenshot.png')",
+    "description": "Screenshot saved as screenshot.png"
+  },
+  {
+    "command": "os.system('rundll32.exe user32.dll,LockWorkStation')",
+    "description": "System locked"
+  },
+  {
+    "command": "os.system('nircmd savescreenshot screenshot.png')",
+    "description": "Screenshot saved as screenshot.png"
+  },
+  {
+    "command": "os.system(r'start chrome https://www.google.com/search?q=xxx')",
+    "description": "Chrome opened and searching for xxx"
+  },
+  {
+    "command": "os.system('taskkill /im chrome.exe')",
+    "description": "Chrome closed"
+  },
+  {
+    "command": "os.system('rundll32.exe user32.dll,LockWorkStation')",
+    "description": "System locked"
+  },
+  {
+    "command": "os.system(r'start shell:desktop')",
+    "description": "Desktop opened"
+  },
+  {
+    "command": "os.system('taskkill /im explorer.exe')",
+    "description": "File explorer closed"
+  },
+  {
+    "command": "os.system('taskkill /im explorer.exe')",
+    "description": "File explorer closed"
+  },
+  {
+    "command": "os.system('taskkill /im code.exe')",
+    "description": "VS Code closed"
+  },
+  {
+    "command": "os.system(r'start ms-settings:')",
+    "description": "Opening settings"
+  },
+  {
+    "command": "os.system(r'start chrome https://www.google.com')",
+    "description": "Opening Google Chrome"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com')",
+    "description": "Opening Google"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com/search?q=madarchod')",
+    "description": "Searching for madarchod on Google"
+  },
+  {
+    "command": "os.system(r'start spotify:')",
+    "description": "Opening Spotify"
+  },
+  {
+    "command": "os.system(r'nircmd emptyrecyclebin')",
+    "description": "Emptying the recycle bin"
+  },
+  {
+    "command": "os.system(r'start steam://store/220620')",
+    "description": "Opening GTA V installation page on Steam"
+  },
+  {
+    "command": "os.system(r'nircmd win toggleclass stroll')",
+    "description": "Toggle video playback"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com/search?q=virat+kohli')",
+    "description": "Searching for Virat Kohli on Google"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com/search?hl=te')",
+    "description": "Opening Google in Telugu"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com/search?q=Cristiano+Ronaldo')",
+    "description": "Searching for information about Cristiano Ronaldo"
+  },
+  {
+    "command": "os.system(r'start https://www.google.com/search?q=kerala+lottery+result')",
+    "description": "Checking Kerala lottery results"
+  },
+  {
+    "command": "os.system('shutdown /s /t 1')",
+    "description": "Shutting down the computer"
+  },
+  {
+    "command": "os.system(r'start chrome https://www.youtube.com')",
+    "description": "Opening YouTube in Google Chrome"
+  },
+  {
+    "command": "os.system('nircmd.exe url open https://www.youtube.com')",
+    "description": "Opening YouTube."
+  },
+  {
+    "command": "os.system('nircmd.exe lockws')",
+    "description": "Locking the screen."
+  },
+  {
+    "command": "os.system('start https://www.youtube.com')",
+    "description": "Opening YouTube."
+  },
+  {
+    "command": "os.system(r'nircmd savescreenshot c:\\screenshot.png')",
+    "description": "Taking a screenshot and saving it to C:\\screenshot.png"
+  },
+  {
+    "command": "os.system(r'nircmd savescreenshot c:\\users\\public\\desktop\\screenshot.png')",
+    "description": "Taking a screenshot and saving it to the desktop."
+  },
+  {
+    "command": "os.system(r'nircmd setbrightness 50')",
+    "description": "Decreasing brightness to 50%."
+  },
+  {
+    "command": "os.system(r'nircmd setbrightness 100')",
+    "description": "Increasing brightness to 100%."
+  },
+  {
+    "command": "os.system(r'nircmd mutesysvolume 1')",
+    "description": "Muting the system volume."
+  },
+  {
+    "command": "os.system('start https://www.google.com/search?q=the+batman+movie')",
+    "description": "Searching for 'the batman movie' on Google."
+  },
+  {
+    "command": "os.system(r'powershell \"Get-ChildItem -Path C:\\ -Recurse -File | Where-Object {$_.Name -like \\'*batman movie*\\'} | Select-Object FullName\"')",
+    "description": "Searching your computer for files related to 'the batman movie'."
+  },
+  {
+    "command": "os.system(r'start cmd /c \"dir /s batman movie.*\"')",
+    "description": "Searching for 'batman movie' on your computer."
+  },
+  {
+    "command": "os.system('start code')",
+    "description": "Opening VS Code."
+  },
+  {
+    "command": "os.system('start downloads')",
+    "description": "Opening downloads folder."
+  },
+  {
+    "command": "os.system('start downloads')",
+    "description": "Opening download folder."
+  },
+  {
+    "command": "os.system('start explorer')",
+    "description": "Opening file explorer."
+  },
+  {
+    "command": "os.system(r'nircmd.exe changesysvolume 6553')",
+    "description": "Increasing volume."
+  },
+  {
+    "command": "os.system('start chrome https://www.youtube.com')",
+    "description": "Opening YouTube in Chrome."
+  },
+  {
+    "command": "os.system('taskkill /im chrome.exe /f')",
+    "description": "Closing Chrome."
+  },
+  {
+    "command": "os.system('start \"\" https://www.youtube.com\"\"')",
+    "description": "Opening YouTube"
+  },
+  {
+    "command": "os.system('start chrome https://www.youtube.com')",
+    "description": "Opening YouTube in Chrome"
+  },
+  {
+    "command": "''",
+    "description": "Hello!"
+  },
+  {
+    "command": "import os; os.system('start \"\"https://www.youtube.com\"\"')",
+    "description": "Opening YouTube in your default browser."
+  },
+  {
+    "command": "''",
+    "description": "I'm sorry, I need more information to understand your request."
+  },
+  {
+    "command": "''",
+    "description": "I cannot fulfill this request."
+  },
+  {
+    "command": "import os; os.system('nircmd.exe savescreenshot desktop')",
+    "description": "Screenshot saved to desktop"
+  },
+  {
+    "command": "os.system('start \"\"https://www.google.com/search?q=kerala+video\"\"')",
+    "description": "Showing search results for kerala video"
+  },
+  {
+    "command": "''",
+    "description": "I cannot provide a response that contains explicit content. Can I help you with something else?"
+  },
+  {
+    "command": "os.system('start \"\" https://www.youtube.com\"')",
+    "description": "Opening YouTube"
+  },
+  {
+    "command": "import os; os.system('start https://www.google.com/search?q=latest')",
+    "description": "Showing search results for latest"
+  },
+  {
+    "command": "import os; os.system('rundll32.exe user32.dll,LockWorkStation')",
+    "description": "Locking screen"
+  },
+  {
+    "command": "os.system('nircmd.exe setbrightness 5')",
+    "description": "Decreasing brightness"
+  },
+  {
+    "command": "import os; os.system('nircmd.exe setscreenbrightness 10')",
+    "description": "Increasing brightness"
+  },
+  {
+    "command": "import os; os.system('taskkill /f /im explorer.exe')",
+    "description": "Closing all applications"
+  },
+  {
+    "command": "import os; os.system('shutdown /s /t 1')",
+    "description": "Shutting down laptop"
+  },
+  {
+    "command": "os.system('start ms-settings:')",
+    "description": "Opening settings"
+  },
+  {
+    "command": "import os; os.system('powershell.exe -command \"& {Get-PnpDevice | Where-Object {$_.Status -eq 'OK'} | Where-Object {$_.Name -like '*Bluetooth*'} | Enable-PnpDevice}\"')",
+    "description": "Turning on Bluetooth"
+  },
+  {
+    "command": "import os; os.system('netsh interface set interface Wi-Fi admin=disabled')",
+    "description": "Switching off Wi-Fi"
+  },
+  {
+    "command": "''",
+    "description": "I need more information about your request."
+  }
+]
