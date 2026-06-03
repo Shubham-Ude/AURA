@@ -13,8 +13,6 @@
 - 🖥️ **Animated HUD Overlay** — A transparent, always-on-top PyQt5 widget with orbital animation and status display
 - 🧵 **Threaded Architecture** — GUI and assistant run concurrently without blocking each other
 - 🐛 **CLI Debug Mode** — Test commands from the terminal without a microphone
-- 🧠 **Memory Module** — Persistent memory support across sessions
-- ⚙️ **Configurable** — Adjustable settings via the `config/` directory
 
 ---
 
@@ -157,14 +155,6 @@ python main.py --debug
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Web search integration
-- [ ] Custom wake word support
-- [ ] More system action commands
-- [ ] Conversation history & context awareness
-- [ ] Cross-platform support (Linux/macOS)
-- [ ] Packaged executable (`.exe`) via PyInstaller
 
 ---
 
